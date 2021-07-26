@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389768879192",
+    "project_id": "nearmekotlindemo",
+    "storage_bucket": "nearmekotlindemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389768879192:android:dae6b73cc25c60c8b6be2d",
+        "android_client_info": {
+          "package_name": "com.createsapp.nearmekotlindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389768879192-3lmoktchslni8ta9v03rukrekjvunasn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmskQ-olhprepOdVJ1eawndgS9prLtvKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389768879192-3lmoktchslni8ta9v03rukrekjvunasn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
